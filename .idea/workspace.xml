@@ -202,9 +202,13 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="585" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.1027@0.23.1680.1027" timestamp="1582465256204" />
-    <state x="464" y="141" key="CommitChangelistDialog2" timestamp="1582465808724">
+    <state x="464" y="141" key="CommitChangelistDialog2" timestamp="1582465882872">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="464" y="141" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1582465808724" />
+    <state x="464" y="141" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1582465882872" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1582465887594">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1582465887593" />
   </component>
 </project>

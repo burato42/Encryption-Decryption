@@ -1,11 +1,11 @@
 target/
-.idea/
+/.idea/
 *.iml
 .DS_Store
 
 out/
 
-.gradle
+.gradle/
 build/
 
 **/build/
